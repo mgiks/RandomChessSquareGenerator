@@ -8,8 +8,8 @@ letters = ["a", "b", "c", "d", "e", "f", "g", "h"]
 numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 
 while True:
-    if keyboard.read_key() == "space":
-        square = f"{random.choice(letters)}{random.choice(numbers)}"
+    if keyboard.read_key() == "`":
+        square = f"{random.choice(letters)}-{random.choice(numbers)}"
         os.system('cls')
         print()
         sleep(0.1)
