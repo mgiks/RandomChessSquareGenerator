@@ -1,1 +1,1 @@
-Just a piece of horrible code. (Not for long though)
+Just a piece of horrible code(Not for long though)
